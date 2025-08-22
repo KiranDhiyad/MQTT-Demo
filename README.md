@@ -4,4 +4,4 @@ MQTT Demo For Android 12
 
 ## You can Connect With Me
 
-- [Linkedin](https://www.linkedin.com/in/karandhiyad/)
+- [Linkedin](https://www.linkedin.com/in/kirandhiyad/)
